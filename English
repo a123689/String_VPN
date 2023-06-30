@@ -1,0 +1,39 @@
+<string name="app_name">VPN Master</string>
+    <string name="vpn_on">VPN ON</string>
+    <string name="vpn_off">VPN OFF</string>
+    <string name="navigation_drawer_open">drawer open</string>
+    <string name="navigation_drawer_close">drawer close</string>
+    <string name="connect">Connect</string>
+    <string name="connected">Connected</string>
+    <string name="connecting">Connecting</string>
+    <string name="disconnect">Disconnect</string>
+    <string name="connection_close_confirm">Would you like to cancel the current VPN Connection?</string>
+    <string name="yes">YES</string>
+    <string name="no">NO</string>
+    <string name="welcome_vpn_master">Welcome VPN Master!</string>
+    <string name="change_location">Change location</string>
+    <string name="free_location">Free Location</string>
+    <string name="welcome_to">Welcome To</string>
+    <string name="alert">Alert</string>
+    <string name="setting">Setting</string>
+    <string name="rate_us">Rate us</string>
+    <string name="share_app">Share App</string>
+    <string name="notificationpermission">Notification permission is required, to show notification press yes to allow</string>
+    <string name="accept_continue">Accept &amp; Continue</string>
+    <string name="no_network_connection">No network\n connection</string>
+    <string name="waiting_for_server_connection">Waiting for server\n connection!!</string>
+    <string name="server_authenticating">Server\n authenticating!!</string>
+    <string name="permission_deny">Permission Deny !! </string>
+    <string name="you_have_no_internet_connection">You have no internet connection !!</string>
+    <string name="disconnect_successfully">Disconnect Successfully</string>
+    <string name="for_more_information">For more information, please read</string>
+    <string name="our_privacy_policy">Our privacy policy</string>
+    <string name="notify"> notification</string>
+    <string name="policy">VPN Master app helps you to quickly and conveniently use VPN services. We only collect a small amount of relevant information to serve your VPN services. Example information when you use the app:\n\n
+
+- To change the IP address VPN Master application may have to check the current IP address on your device, but we only get it to serve a single purpose for the application\'s features, we I do not collect or share this information with any 3rd parties.\n\n
+- We collect some in-app behavior data to analyze the data to come up with the best solution for VPN master app and this data is absolutely secure.\n\n
+- Our VPN Connection Time\n\n
+- Payment via Google Play (if any)\n\n
+
+All the above information is for the sole purpose of the main feature of the VPN application. And all that information, we are completely committed to keeping absolute confidentiality.</string>
